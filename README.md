@@ -1,4 +1,4 @@
-# EmDash Blog Template (Cloudflare)
+# EmDash Blog Template (Cloudflare) 
 
 A clean, minimal blog built with [EmDash](https://github.com/emdash-cms/emdash) and deployed on Cloudflare Workers with D1 and R2.
 
